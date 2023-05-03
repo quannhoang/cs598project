@@ -1,0 +1,301 @@
+Start training at 2023-04-22 02:14:24.037499
+Epoch: 1 | Train Loss: 4.42403 | Train Acc: 0.054 | Val Loss: 4.26397 | Val Acc: 0.064
+End training at 2023-04-22 02:26:11.496797
+Epoch train time: 11.783333333333333 minutes
+Epoch: 2 | Train Loss: 4.11671 | Train Acc: 0.085 | Val Loss: 3.97723 | Val Acc: 0.091
+End training at 2023-04-22 02:37:38.620318
+Epoch train time: 11.45 minutes
+Epoch: 3 | Train Loss: 3.91707 | Train Acc: 0.111 | Val Loss: 3.83881 | Val Acc: 0.118
+End training at 2023-04-22 02:49:03.431113
+Epoch train time: 11.4 minutes
+Epoch: 4 | Train Loss: 3.78742 | Train Acc: 0.134 | Val Loss: 3.64410 | Val Acc: 0.142
+End training at 2023-04-22 03:00:30.623726
+Epoch train time: 11.45 minutes
+Epoch: 5 | Train Loss: 3.64455 | Train Acc: 0.158 | Val Loss: 3.48286 | Val Acc: 0.179
+End training at 2023-04-22 03:11:57.461676
+Epoch train time: 11.433333333333334 minutes
+Epoch: 6 | Train Loss: 3.47383 | Train Acc: 0.185 | Val Loss: 3.33320 | Val Acc: 0.190
+End training at 2023-04-22 03:23:24.995599
+Epoch train time: 11.45 minutes
+Epoch: 7 | Train Loss: 3.37308 | Train Acc: 0.202 | Val Loss: 3.19701 | Val Acc: 0.232
+End training at 2023-04-22 03:34:50.853013
+Epoch train time: 11.416666666666666 minutes
+Epoch: 8 | Train Loss: 3.23987 | Train Acc: 0.228 | Val Loss: 3.13516 | Val Acc: 0.255
+End training at 2023-04-22 03:46:16.280484
+Epoch train time: 11.416666666666666 minutes
+Epoch: 9 | Train Loss: 3.11519 | Train Acc: 0.251 | Val Loss: 3.02198 | Val Acc: 0.264
+End training at 2023-04-22 03:57:40.814620
+Epoch train time: 11.4 minutes
+Epoch: 10 | Train Loss: 3.02488 | Train Acc: 0.271 | Val Loss: 2.84785 | Val Acc: 0.293
+End training at 2023-04-22 04:09:06.077017
+Epoch train time: 11.416666666666666 minutes
+Epoch: 11 | Train Loss: 2.89643 | Train Acc: 0.294 | Val Loss: 2.78762 | Val Acc: 0.311
+End training at 2023-04-22 04:20:31.568565
+Epoch train time: 11.416666666666666 minutes
+Epoch: 12 | Train Loss: 2.80419 | Train Acc: 0.308 | Val Loss: 2.65569 | Val Acc: 0.330
+End training at 2023-04-22 04:31:58.545414
+Epoch train time: 11.433333333333334 minutes
+Epoch: 13 | Train Loss: 2.70448 | Train Acc: 0.338 | Val Loss: 2.48223 | Val Acc: 0.373
+End training at 2023-04-22 04:43:25.971728
+Epoch train time: 11.45 minutes
+Epoch: 14 | Train Loss: 2.60228 | Train Acc: 0.355 | Val Loss: 2.39477 | Val Acc: 0.385
+End training at 2023-04-22 04:54:53.030870
+Epoch train time: 11.433333333333334 minutes
+Epoch: 15 | Train Loss: 2.50020 | Train Acc: 0.373 | Val Loss: 2.28301 | Val Acc: 0.410
+End training at 2023-04-22 05:06:21.144008
+Epoch train time: 11.466666666666667 minutes
+Epoch: 16 | Train Loss: 2.38155 | Train Acc: 0.401 | Val Loss: 2.23132 | Val Acc: 0.426
+End training at 2023-04-22 05:17:48.182196
+Epoch train time: 11.433333333333334 minutes
+Epoch: 17 | Train Loss: 2.29424 | Train Acc: 0.415 | Val Loss: 2.09395 | Val Acc: 0.459
+End training at 2023-04-22 05:29:15.358572
+Epoch train time: 11.45 minutes
+Epoch: 18 | Train Loss: 2.15943 | Train Acc: 0.442 | Val Loss: 1.94042 | Val Acc: 0.480
+End training at 2023-04-22 05:40:38.678505
+Epoch train time: 11.383333333333333 minutes
+Epoch: 19 | Train Loss: 2.07932 | Train Acc: 0.464 | Val Loss: 1.89384 | Val Acc: 0.507
+End training at 2023-04-22 05:52:03.649353
+Epoch train time: 11.4 minutes
+Epoch: 20 | Train Loss: 1.99244 | Train Acc: 0.480 | Val Loss: 1.80966 | Val Acc: 0.517
+End training at 2023-04-22 06:03:29.896877
+Epoch train time: 11.433333333333334 minutes
+Epoch: 21 | Train Loss: 1.88663 | Train Acc: 0.499 | Val Loss: 1.71032 | Val Acc: 0.547
+End training at 2023-04-22 06:14:59.129928
+Epoch train time: 11.483333333333333 minutes
+Epoch: 22 | Train Loss: 1.78359 | Train Acc: 0.528 | Val Loss: 1.54449 | Val Acc: 0.580
+End training at 2023-04-22 06:26:28.206760
+Epoch train time: 11.466666666666667 minutes
+Epoch: 23 | Train Loss: 1.68992 | Train Acc: 0.545 | Val Loss: 1.47783 | Val Acc: 0.600
+End training at 2023-04-22 06:37:56.695574
+Epoch train time: 11.466666666666667 minutes
+Epoch: 24 | Train Loss: 1.62039 | Train Acc: 0.561 | Val Loss: 1.39524 | Val Acc: 0.624
+End training at 2023-04-22 06:49:24.224526
+Epoch train time: 11.45 minutes
+Epoch: 25 | Train Loss: 1.52883 | Train Acc: 0.579 | Val Loss: 1.35225 | Val Acc: 0.617
+End training at 2023-04-22 07:00:50.819595
+Epoch train time: 11.433333333333334 minutes
+Epoch: 26 | Train Loss: 1.43445 | Train Acc: 0.601 | Val Loss: 1.30065 | Val Acc: 0.632
+End training at 2023-04-22 07:12:18.298623
+Epoch train time: 11.45 minutes
+Epoch: 27 | Train Loss: 1.36953 | Train Acc: 0.620 | Val Loss: 1.16214 | Val Acc: 0.668
+End training at 2023-04-22 07:23:43.046028
+Epoch train time: 11.4 minutes
+Epoch: 28 | Train Loss: 1.29109 | Train Acc: 0.639 | Val Loss: 1.13004 | Val Acc: 0.689
+End training at 2023-04-22 07:35:09.518700
+Epoch train time: 11.433333333333334 minutes
+Epoch: 29 | Train Loss: 1.19715 | Train Acc: 0.664 | Val Loss: 1.03027 | Val Acc: 0.709
+End training at 2023-04-22 07:46:36.826687
+Epoch train time: 11.45 minutes
+Epoch: 30 | Train Loss: 1.16637 | Train Acc: 0.674 | Val Loss: 0.98475 | Val Acc: 0.714
+End training at 2023-04-22 07:58:05.100754
+Epoch train time: 11.466666666666667 minutes
+Epoch: 31 | Train Loss: 1.08312 | Train Acc: 0.692 | Val Loss: 0.93271 | Val Acc: 0.738
+End training at 2023-04-22 08:09:33.774343
+Epoch train time: 11.466666666666667 minutes
+Epoch: 32 | Train Loss: 1.03990 | Train Acc: 0.704 | Val Loss: 0.91458 | Val Acc: 0.738
+End training at 2023-04-22 08:21:02.539240
+Epoch train time: 11.466666666666667 minutes
+Epoch: 33 | Train Loss: 1.00890 | Train Acc: 0.712 | Val Loss: 0.81829 | Val Acc: 0.765
+End training at 2023-04-22 08:32:26.977724
+Epoch train time: 11.4 minutes
+Epoch: 34 | Train Loss: 0.91399 | Train Acc: 0.734 | Val Loss: 0.81458 | Val Acc: 0.768
+End training at 2023-04-22 08:43:49.735242
+Epoch train time: 11.366666666666667 minutes
+Epoch: 35 | Train Loss: 0.87778 | Train Acc: 0.748 | Val Loss: 0.73253 | Val Acc: 0.780
+End training at 2023-04-22 08:55:13.481626
+Epoch train time: 11.383333333333333 minutes
+Epoch: 36 | Train Loss: 0.81819 | Train Acc: 0.756 | Val Loss: 0.68899 | Val Acc: 0.791
+End training at 2023-04-22 09:06:38.777319
+Epoch train time: 11.416666666666666 minutes
+Epoch: 37 | Train Loss: 0.79647 | Train Acc: 0.765 | Val Loss: 0.69958 | Val Acc: 0.791
+End training at 2023-04-22 09:18:04.578847
+Epoch train time: 11.416666666666666 minutes
+Epoch: 38 | Train Loss: 0.75905 | Train Acc: 0.773 | Val Loss: 0.62408 | Val Acc: 0.818
+End training at 2023-04-22 09:29:28.864896
+Epoch train time: 11.4 minutes
+Epoch: 39 | Train Loss: 0.71418 | Train Acc: 0.787 | Val Loss: 0.60073 | Val Acc: 0.817
+End training at 2023-04-22 09:40:53.620516
+Epoch train time: 11.4 minutes
+Epoch: 40 | Train Loss: 0.68086 | Train Acc: 0.800 | Val Loss: 0.63778 | Val Acc: 0.807
+End training at 2023-04-22 09:52:18.023188
+Epoch train time: 11.4 minutes
+Epoch: 41 | Train Loss: 0.66607 | Train Acc: 0.807 | Val Loss: 0.56499 | Val Acc: 0.830
+End training at 2023-04-22 10:03:43.799409
+Epoch train time: 11.416666666666666 minutes
+Epoch: 42 | Train Loss: 0.63004 | Train Acc: 0.812 | Val Loss: 0.55093 | Val Acc: 0.834
+End training at 2023-04-22 10:15:09.331442
+Epoch train time: 11.416666666666666 minutes
+Epoch: 43 | Train Loss: 0.58396 | Train Acc: 0.826 | Val Loss: 0.48673 | Val Acc: 0.854
+End training at 2023-04-22 10:26:33.606944
+Epoch train time: 11.4 minutes
+Epoch: 44 | Train Loss: 0.56607 | Train Acc: 0.834 | Val Loss: 0.49655 | Val Acc: 0.842
+End training at 2023-04-22 10:37:57.280542
+Epoch train time: 11.383333333333333 minutes
+Epoch: 45 | Train Loss: 0.56309 | Train Acc: 0.830 | Val Loss: 0.44985 | Val Acc: 0.867
+End training at 2023-04-22 10:49:21.104729
+Epoch train time: 11.383333333333333 minutes
+Epoch: 46 | Train Loss: 0.51811 | Train Acc: 0.849 | Val Loss: 0.40128 | Val Acc: 0.882
+End training at 2023-04-22 11:00:44.353351
+Epoch train time: 11.383333333333333 minutes
+Epoch: 47 | Train Loss: 0.49212 | Train Acc: 0.852 | Val Loss: 0.41657 | Val Acc: 0.872
+End training at 2023-04-22 11:12:07.489243
+Epoch train time: 11.383333333333333 minutes
+Epoch: 48 | Train Loss: 0.47632 | Train Acc: 0.857 | Val Loss: 0.39949 | Val Acc: 0.878
+End training at 2023-04-22 11:23:30.781102
+Epoch train time: 11.383333333333333 minutes
+Epoch: 49 | Train Loss: 0.49372 | Train Acc: 0.849 | Val Loss: 0.37440 | Val Acc: 0.893
+End training at 2023-04-22 11:34:55.338099
+Epoch train time: 11.4 minutes
+Epoch: 50 | Train Loss: 0.45708 | Train Acc: 0.861 | Val Loss: 0.37873 | Val Acc: 0.884
+End training at 2023-04-22 11:46:20.043516
+Epoch train time: 11.4 minutes
+Epoch: 51 | Train Loss: 0.43381 | Train Acc: 0.868 | Val Loss: 0.33690 | Val Acc: 0.903
+End training at 2023-04-22 11:57:44.713422
+Epoch train time: 11.4 minutes
+Epoch: 52 | Train Loss: 0.42334 | Train Acc: 0.872 | Val Loss: 0.36610 | Val Acc: 0.889
+End training at 2023-04-22 12:09:09.213811
+Epoch train time: 11.4 minutes
+Epoch: 53 | Train Loss: 0.41631 | Train Acc: 0.874 | Val Loss: 0.34960 | Val Acc: 0.890
+End training at 2023-04-22 12:20:36.507227
+Epoch train time: 11.45 minutes
+Epoch: 54 | Train Loss: 0.40635 | Train Acc: 0.875 | Val Loss: 0.34414 | Val Acc: 0.890
+End training at 2023-04-22 12:32:04.040015
+Epoch train time: 11.45 minutes
+Epoch: 55 | Train Loss: 0.41096 | Train Acc: 0.876 | Val Loss: 0.33113 | Val Acc: 0.899
+End training at 2023-04-22 12:43:30.609203
+Epoch train time: 11.433333333333334 minutes
+Epoch: 56 | Train Loss: 0.35778 | Train Acc: 0.893 | Val Loss: 0.29618 | Val Acc: 0.910
+End training at 2023-04-22 12:54:57.329500
+Epoch train time: 11.433333333333334 minutes
+Epoch: 57 | Train Loss: 0.37285 | Train Acc: 0.891 | Val Loss: 0.32096 | Val Acc: 0.904
+End training at 2023-04-22 13:06:24.390500
+Epoch train time: 11.433333333333334 minutes
+Epoch: 58 | Train Loss: 0.37038 | Train Acc: 0.888 | Val Loss: 0.29997 | Val Acc: 0.904
+End training at 2023-04-22 13:17:47.658183
+Epoch train time: 11.383333333333333 minutes
+Epoch: 59 | Train Loss: 0.33770 | Train Acc: 0.897 | Val Loss: 0.30847 | Val Acc: 0.905
+End training at 2023-04-22 13:29:11.967880
+Epoch train time: 11.4 minutes
+Epoch: 60 | Train Loss: 0.34547 | Train Acc: 0.897 | Val Loss: 0.27475 | Val Acc: 0.918
+End training at 2023-04-22 13:40:36.445452
+Epoch train time: 11.4 minutes
+Epoch: 61 | Train Loss: 0.33860 | Train Acc: 0.900 | Val Loss: 0.31253 | Val Acc: 0.903
+End training at 2023-04-22 13:52:00.005126
+Epoch train time: 11.383333333333333 minutes
+Epoch: 62 | Train Loss: 0.33809 | Train Acc: 0.898 | Val Loss: 0.28750 | Val Acc: 0.918
+End training at 2023-04-22 14:03:24.984999
+Epoch train time: 11.4 minutes
+Epoch: 63 | Train Loss: 0.34417 | Train Acc: 0.895 | Val Loss: 0.31227 | Val Acc: 0.898
+End training at 2023-04-22 14:14:47.813305
+Epoch train time: 11.366666666666667 minutes
+Epoch: 64 | Train Loss: 0.32718 | Train Acc: 0.904 | Val Loss: 0.28013 | Val Acc: 0.912
+End training at 2023-04-22 14:26:14.412538
+Epoch train time: 11.433333333333334 minutes
+Epoch: 65 | Train Loss: 0.30070 | Train Acc: 0.911 | Val Loss: 0.24763 | Val Acc: 0.921
+End training at 2023-04-22 14:37:40.601309
+Epoch train time: 11.433333333333334 minutes
+Epoch: 66 | Train Loss: 0.29600 | Train Acc: 0.911 | Val Loss: 0.25173 | Val Acc: 0.922
+End training at 2023-04-22 14:49:06.761992
+Epoch train time: 11.433333333333334 minutes
+Epoch: 67 | Train Loss: 0.31521 | Train Acc: 0.903 | Val Loss: 0.24151 | Val Acc: 0.928
+End training at 2023-04-22 15:00:33.948333
+Epoch train time: 11.45 minutes
+Epoch: 68 | Train Loss: 0.28533 | Train Acc: 0.915 | Val Loss: 0.22339 | Val Acc: 0.929
+End training at 2023-04-22 15:11:57.862346
+Epoch train time: 11.383333333333333 minutes
+Epoch: 69 | Train Loss: 0.28856 | Train Acc: 0.913 | Val Loss: 0.24726 | Val Acc: 0.926
+End training at 2023-04-22 15:23:22.020612
+Epoch train time: 11.4 minutes
+Epoch: 70 | Train Loss: 0.28345 | Train Acc: 0.915 | Val Loss: 0.22122 | Val Acc: 0.932
+End training at 2023-04-22 15:34:47.802273
+Epoch train time: 11.416666666666666 minutes
+Epoch: 71 | Train Loss: 0.29341 | Train Acc: 0.913 | Val Loss: 0.25510 | Val Acc: 0.923
+End training at 2023-04-22 15:46:12.080817
+Epoch train time: 11.4 minutes
+Epoch: 72 | Train Loss: 0.29411 | Train Acc: 0.915 | Val Loss: 0.22238 | Val Acc: 0.928
+End training at 2023-04-22 15:57:39.703039
+Epoch train time: 11.45 minutes
+Epoch: 73 | Train Loss: 0.28724 | Train Acc: 0.914 | Val Loss: 0.21656 | Val Acc: 0.935
+End training at 2023-04-22 16:09:08.589883
+Epoch train time: 11.466666666666667 minutes
+Epoch: 74 | Train Loss: 0.26429 | Train Acc: 0.923 | Val Loss: 0.18625 | Val Acc: 0.940
+End training at 2023-04-22 16:20:36.402671
+Epoch train time: 11.45 minutes
+Epoch: 75 | Train Loss: 0.27232 | Train Acc: 0.924 | Val Loss: 0.21475 | Val Acc: 0.932
+End training at 2023-04-22 16:32:05.394548
+Epoch train time: 11.466666666666667 minutes
+Epoch: 76 | Train Loss: 0.25783 | Train Acc: 0.926 | Val Loss: 0.19270 | Val Acc: 0.942
+End training at 2023-04-22 16:43:34.071360
+Epoch train time: 11.466666666666667 minutes
+Epoch: 77 | Train Loss: 0.23624 | Train Acc: 0.930 | Val Loss: 0.21148 | Val Acc: 0.934
+End training at 2023-04-22 16:55:01.593403
+Epoch train time: 11.45 minutes
+Epoch: 78 | Train Loss: 0.24682 | Train Acc: 0.924 | Val Loss: 0.22025 | Val Acc: 0.934
+End training at 2023-04-22 17:06:27.796600
+Epoch train time: 11.433333333333334 minutes
+Epoch: 79 | Train Loss: 0.24625 | Train Acc: 0.926 | Val Loss: 0.19252 | Val Acc: 0.938
+End training at 2023-04-22 17:17:55.473389
+Epoch train time: 11.45 minutes
+Epoch: 80 | Train Loss: 0.24167 | Train Acc: 0.929 | Val Loss: 0.19818 | Val Acc: 0.938
+End training at 2023-04-22 17:29:21.003165
+Epoch train time: 11.416666666666666 minutes
+Epoch: 81 | Train Loss: 0.23823 | Train Acc: 0.926 | Val Loss: 0.21491 | Val Acc: 0.930
+End training at 2023-04-22 17:40:49.183531
+Epoch train time: 11.466666666666667 minutes
+Epoch: 82 | Train Loss: 0.22832 | Train Acc: 0.931 | Val Loss: 0.16866 | Val Acc: 0.949
+End training at 2023-04-22 17:52:14.075860
+Epoch train time: 11.4 minutes
+Epoch: 83 | Train Loss: 0.21964 | Train Acc: 0.934 | Val Loss: 0.16311 | Val Acc: 0.947
+End training at 2023-04-22 18:03:39.380785
+Epoch train time: 11.416666666666666 minutes
+Epoch: 84 | Train Loss: 0.21416 | Train Acc: 0.936 | Val Loss: 0.16040 | Val Acc: 0.949
+End training at 2023-04-22 18:15:05.971334
+Epoch train time: 11.433333333333334 minutes
+Epoch: 85 | Train Loss: 0.21987 | Train Acc: 0.934 | Val Loss: 0.17044 | Val Acc: 0.949
+End training at 2023-04-22 18:26:32.687727
+Epoch train time: 11.433333333333334 minutes
+Epoch: 86 | Train Loss: 0.21715 | Train Acc: 0.934 | Val Loss: 0.16183 | Val Acc: 0.949
+End training at 2023-04-22 18:37:58.434620
+Epoch train time: 11.416666666666666 minutes
+Epoch: 87 | Train Loss: 0.20530 | Train Acc: 0.940 | Val Loss: 0.20628 | Val Acc: 0.936
+End training at 2023-04-22 18:49:23.433397
+Epoch train time: 11.4 minutes
+Epoch: 88 | Train Loss: 0.22849 | Train Acc: 0.934 | Val Loss: 0.17004 | Val Acc: 0.943
+End training at 2023-04-22 19:00:49.123554
+Epoch train time: 11.416666666666666 minutes
+Epoch: 89 | Train Loss: 0.22393 | Train Acc: 0.933 | Val Loss: 0.17786 | Val Acc: 0.950
+End training at 2023-04-22 19:12:16.371341
+Epoch train time: 11.45 minutes
+Epoch: 90 | Train Loss: 0.20616 | Train Acc: 0.939 | Val Loss: 0.16295 | Val Acc: 0.950
+End training at 2023-04-22 19:23:45.019176
+Epoch train time: 11.466666666666667 minutes
+Epoch: 91 | Train Loss: 0.20405 | Train Acc: 0.936 | Val Loss: 0.19678 | Val Acc: 0.940
+End training at 2023-04-22 19:35:12.778432
+Epoch train time: 11.45 minutes
+Epoch: 92 | Train Loss: 0.22427 | Train Acc: 0.934 | Val Loss: 0.17786 | Val Acc: 0.944
+End training at 2023-04-22 19:46:40.028046
+Epoch train time: 11.45 minutes
+Epoch: 93 | Train Loss: 0.19852 | Train Acc: 0.941 | Val Loss: 0.15156 | Val Acc: 0.953
+End training at 2023-04-22 19:58:08.152283
+Epoch train time: 11.466666666666667 minutes
+Epoch: 94 | Train Loss: 0.18088 | Train Acc: 0.946 | Val Loss: 0.15958 | Val Acc: 0.956
+End training at 2023-04-22 20:09:35.020596
+Epoch train time: 11.433333333333334 minutes
+Epoch: 95 | Train Loss: 0.20874 | Train Acc: 0.935 | Val Loss: 0.18293 | Val Acc: 0.942
+End training at 2023-04-22 20:21:02.221543
+Epoch train time: 11.45 minutes
+Epoch: 96 | Train Loss: 0.20292 | Train Acc: 0.940 | Val Loss: 0.14821 | Val Acc: 0.956
+End training at 2023-04-22 20:32:29.131136
+Epoch train time: 11.433333333333334 minutes
+Epoch: 97 | Train Loss: 0.19275 | Train Acc: 0.943 | Val Loss: 0.13517 | Val Acc: 0.958
+End training at 2023-04-22 20:43:57.608315
+Epoch train time: 11.466666666666667 minutes
+Epoch: 98 | Train Loss: 0.20824 | Train Acc: 0.939 | Val Loss: 0.13570 | Val Acc: 0.961
+End training at 2023-04-22 20:55:27.551599
+Epoch train time: 11.483333333333333 minutes
+Epoch: 99 | Train Loss: 0.19071 | Train Acc: 0.942 | Val Loss: 0.15442 | Val Acc: 0.952
+End training at 2023-04-22 21:06:57.620822
+Epoch train time: 11.5 minutes
+Epoch: 100 | Train Loss: 0.17810 | Train Acc: 0.947 | Val Loss: 0.15506 | Val Acc: 0.952
+End training at 2023-04-22 21:18:28.448526
+Epoch train time: 11.5 minutes
